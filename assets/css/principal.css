@@ -1,0 +1,16 @@
+body{
+    background-color: #D5E1EF;
+    font-family: "Outfit", sans-serif;
+}
+
+.container{
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    width: 100vw;
+}
+
+.attribution{
+    margin-top: 1em;
+}

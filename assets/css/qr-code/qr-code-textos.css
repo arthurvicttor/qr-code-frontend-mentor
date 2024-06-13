@@ -1,0 +1,16 @@
+.qr-code__textos{
+    padding: 1.5em 1em 2.5em 1em ;
+}
+
+.qr-code__titulo{
+    color: #1F314F;
+    font-size: 1.4em;
+    font-weight: 700;
+    padding-bottom: 1em;
+}
+
+.qr-code__exemplo{
+    color: #7D889E;
+    font-size: 1em;
+    line-height: 1.5em;
+}

@@ -1,0 +1,8 @@
+.qr-code{
+    background: #FFFFFF;
+    border-radius: 20px;
+    height: 497px;
+    text-align: center;
+    width: 300px;
+    padding: 1em 1em 0 1em;
+}
